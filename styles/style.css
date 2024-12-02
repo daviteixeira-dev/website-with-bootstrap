@@ -1,0 +1,10 @@
+header {
+    height: 430px;
+    display: flex;
+    align-items: center;
+    background-size: cover;
+    justify-content: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("../assets/images/banner-website-batfamily.png");
+}
